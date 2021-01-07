@@ -11,3 +11,4 @@ Day | Topic
 **3** | [SAML Vulnerabilities](/day3.md)
 **4** | [Unauthenticated & Exploitable JIRA Vulnerabilities ](/day4.md)
 **5** | [Client-Side Template Injection(CSTI)](/day5.md)
+**6** | [Cross-Site Leaks](/day6.md)
